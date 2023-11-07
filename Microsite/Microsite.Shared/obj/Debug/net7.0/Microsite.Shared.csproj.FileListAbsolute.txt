@@ -1,0 +1,12 @@
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.Shared\bin\Debug\net7.0\Microsite.Shared.deps.json
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.Shared\bin\Debug\net7.0\Microsite.Shared.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.Shared\bin\Debug\net7.0\Microsite.Shared.pdb
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.Shared\obj\Debug\net7.0\Microsite.Shared.csproj.AssemblyReference.cache
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.Shared\obj\Debug\net7.0\Microsite.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.Shared\obj\Debug\net7.0\Microsite.Shared.AssemblyInfoInputs.cache
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.Shared\obj\Debug\net7.0\Microsite.Shared.AssemblyInfo.cs
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.Shared\obj\Debug\net7.0\Microsite.Shared.csproj.CoreCompileInputs.cache
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.Shared\obj\Debug\net7.0\Microsite.Shared.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.Shared\obj\Debug\net7.0\refint\Microsite.Shared.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.Shared\obj\Debug\net7.0\Microsite.Shared.pdb
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.Shared\obj\Debug\net7.0\ref\Microsite.Shared.dll

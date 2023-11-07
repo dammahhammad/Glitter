@@ -1,0 +1,545 @@
+D:\Exit Test\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exit Test\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.AssemblyInfoInputs.cache
+D:\Exit Test\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.AssemblyInfo.cs
+D:\Exit Test\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.csproj.CoreCompileInputs.cache
+D:\Exit Test\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.MvcApplicationPartsAssemblyInfo.cache
+D:\Exit Test\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.RazorAssemblyInfo.cache
+D:\Exit Test\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.RazorAssemblyInfo.cs
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.exe
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.deps.json
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.runtimeconfig.json
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.runtimeconfig.dev.json
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.pdb
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.Views.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.Views.pdb
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Abp.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Abp.Web.Common.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Castle.Core.AsyncInterceptor.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Castle.Facilities.Logging.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Castle.Windsor.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Context.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Coordination.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Tasks.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Nito.Collections.Deque.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\Nito.Disposables.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\NUglify.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\ServiceStack.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\ServiceStack.Client.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\ServiceStack.Common.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\ServiceStack.Interfaces.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\ServiceStack.Text.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Reflection.DispatchProxy.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\TimeZoneConverter.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Exit Test\Microsite\Microsite\obj\Debug\netcoreapp3.1\staticwebassets\Microsite.StaticWebAssets.Manifest.cache
+D:\Exit Test\Microsite\Microsite\obj\Debug\netcoreapp3.1\staticwebassets\Microsite.StaticWebAssets.xml
+D:\Exit Test\Microsite\Microsite\obj\Debug\netcoreapp3.1\scopedcss\bundle\Microsite.styles.css
+D:\Exit Test\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.TagHelpers.input.cache
+D:\Exit Test\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.TagHelpers.output.cache
+D:\Exit Test\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.RazorCoreGenerate.cache
+D:\Exit Test\Microsite\Microsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Exit Test\Microsite\Microsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Exit Test\Microsite\Microsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Exit Test\Microsite\Microsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Exit Test\Microsite\Microsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Exit Test\Microsite\Microsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Exit Test\Microsite\Microsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Exit Test\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.RazorTargetAssemblyInfo.cache
+D:\Exit Test\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.RazorTargetAssemblyInfo.cs
+D:\Exit Test\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.Views.pdb
+D:\Exit Test\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.csproj.CopyComplete
+D:\Exit Test\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.dll
+D:\Exit Test\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.pdb
+D:\Exit Test\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.genruntimeconfig.cache
+D:\Exit Test\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.csproj.AssemblyReference.cache
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Exit Test\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Glitter\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Glitter\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.AssemblyInfoInputs.cache
+D:\Glitter\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.AssemblyInfo.cs
+D:\Glitter\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.csproj.CoreCompileInputs.cache
+D:\Glitter\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.MvcApplicationPartsAssemblyInfo.cache
+D:\Glitter\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.RazorAssemblyInfo.cache
+D:\Glitter\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.RazorAssemblyInfo.cs
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.exe
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.deps.json
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.runtimeconfig.json
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.runtimeconfig.dev.json
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.pdb
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.Views.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.Views.pdb
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Abp.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Abp.Web.Common.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Castle.Core.AsyncInterceptor.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Castle.Facilities.Logging.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Castle.Windsor.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Context.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Coordination.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Tasks.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Nito.Collections.Deque.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Nito.Disposables.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\NUglify.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\ServiceStack.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\ServiceStack.Client.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\ServiceStack.Common.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\ServiceStack.Interfaces.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\ServiceStack.Text.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Reflection.DispatchProxy.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\TimeZoneConverter.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.BusinessLogic.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.Data.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.Shared.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.BusinessLogic.pdb
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.Data.pdb
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.Shared.pdb
+D:\Glitter\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.csproj.AssemblyReference.cache
+D:\Glitter\Microsite\Microsite\obj\Debug\netcoreapp3.1\staticwebassets\Microsite.StaticWebAssets.Manifest.cache
+D:\Glitter\Microsite\Microsite\obj\Debug\netcoreapp3.1\staticwebassets\Microsite.StaticWebAssets.xml
+D:\Glitter\Microsite\Microsite\obj\Debug\netcoreapp3.1\scopedcss\bundle\Microsite.styles.css
+D:\Glitter\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.TagHelpers.input.cache
+D:\Glitter\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.TagHelpers.output.cache
+D:\Glitter\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.RazorCoreGenerate.cache
+D:\Glitter\Microsite\Microsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Glitter\Microsite\Microsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Glitter\Microsite\Microsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Glitter\Microsite\Microsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Glitter\Microsite\Microsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Glitter\Microsite\Microsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Glitter\Microsite\Microsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Glitter\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.RazorTargetAssemblyInfo.cache
+D:\Glitter\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.RazorTargetAssemblyInfo.cs
+D:\Glitter\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.Views.pdb
+D:\Glitter\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.csproj.CopyComplete
+D:\Glitter\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.dll
+D:\Glitter\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.pdb
+D:\Glitter\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.genruntimeconfig.cache
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Glitter\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.exe
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.deps.json
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.runtimeconfig.json
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.runtimeconfig.dev.json
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.pdb
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.Views.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.Views.pdb
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Abp.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Abp.Web.Common.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Castle.Core.AsyncInterceptor.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Castle.Facilities.Logging.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Castle.Windsor.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Context.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Coordination.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Tasks.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Nito.Collections.Deque.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Nito.Disposables.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\NUglify.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\ServiceStack.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\ServiceStack.Client.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\ServiceStack.Common.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\ServiceStack.Interfaces.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\ServiceStack.Text.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Reflection.DispatchProxy.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\TimeZoneConverter.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.BusinessLogic.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.Data.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.Shared.dll
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.BusinessLogic.pdb
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.Data.pdb
+D:\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.Shared.pdb
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.csproj.AssemblyReference.cache
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.csproj.ResolveComReference.cache
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.AssemblyInfoInputs.cache
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.AssemblyInfo.cs
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.csproj.CoreCompileInputs.cache
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.MvcApplicationPartsAssemblyInfo.cache
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.RazorAssemblyInfo.cache
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.RazorAssemblyInfo.cs
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\staticwebassets\Microsite.StaticWebAssets.Manifest.cache
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\staticwebassets\Microsite.StaticWebAssets.xml
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\scopedcss\bundle\Microsite.styles.css
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.TagHelpers.input.cache
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.TagHelpers.output.cache
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.RazorCoreGenerate.cache
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.RazorTargetAssemblyInfo.cache
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.RazorTargetAssemblyInfo.cs
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.Views.pdb
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.csproj.CopyComplete
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.dll
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.pdb
+D:\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.genruntimeconfig.cache
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.pdb
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.StaticWebAssets.xml
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.exe
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.deps.json
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.runtimeconfig.json
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.runtimeconfig.dev.json
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.pdb
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.Views.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.Views.pdb
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Abp.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Abp.Web.Common.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Castle.Core.AsyncInterceptor.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Castle.Facilities.Logging.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Castle.Windsor.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Context.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Coordination.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Tasks.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Nito.Collections.Deque.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Nito.Disposables.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\NUglify.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\ServiceStack.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\ServiceStack.Client.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\ServiceStack.Common.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\ServiceStack.Interfaces.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\ServiceStack.Text.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Reflection.DispatchProxy.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\TimeZoneConverter.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.BusinessLogic.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.Data.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.Shared.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.BusinessLogic.pdb
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.Data.pdb
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\bin\Debug\netcoreapp3.1\Microsite.Shared.pdb
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.csproj.AssemblyReference.cache
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.csproj.ResolveComReference.cache
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.AssemblyInfoInputs.cache
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.AssemblyInfo.cs
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.csproj.CoreCompileInputs.cache
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.MvcApplicationPartsAssemblyInfo.cache
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.RazorAssemblyInfo.cache
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.RazorAssemblyInfo.cs
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\staticwebassets\Microsite.StaticWebAssets.Manifest.cache
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\staticwebassets\Microsite.StaticWebAssets.Pack.cache
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Microsite.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Microsite.props
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Microsite.props
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Microsite.props
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.TagHelpers.input.cache
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.TagHelpers.output.cache
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.RazorCoreGenerate.cache
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.RazorTargetAssemblyInfo.cache
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.RazorTargetAssemblyInfo.cs
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.Views.pdb
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.csproj.CopyComplete
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite\obj\Debug\netcoreapp3.1\Microsite.genruntimeconfig.cache

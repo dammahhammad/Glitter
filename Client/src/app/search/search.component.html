@@ -1,0 +1,74 @@
+<app-navbar></app-navbar>
+<div fxLayout="column">
+  <div class="card border mb-3" style="margin: 15px">
+    <div class="card-header d-flex align-items-center justify-content-between">
+      <div class="d-flex align-items-center">
+        <input type="text" style="
+            padding: 5px;
+            border-radius: 15px;
+            border: 1.5px black solid;
+          " placeholder="Filter by Post or People" #filter />
+      </div>
+      <div>
+        <button mat-raised-button color="primary" (click)="performSearch(filter.value)">Search</button>
+      </div>
+    </div>
+    <mat-tab-group dynamicHeight (selectedTabChange)="selectedTab($event.tab.textLabel)">
+      <mat-tab label="Posts">
+          <div class="card-body">
+            <div *ngIf="allTweets && allTweets.length === 0">
+              No match found for {{filter.value}}.
+            </div>
+              <div class="col-md" *ngFor="let tweet of allTweets">
+                <div class="card border mb-3" style="margin: 15px">
+                  <div class="card-header d-flex align-items-center justify-content-between">
+                    <div class="d-flex align-items-center">
+                      <img
+                        [src]="tweet.image"
+                        alt=""
+                        style="width: 45px; height: 45px; margin: 15px"
+                        class="rounded-circle"
+                      />
+                      <div class="ms-3">
+                        <p class="fw-bold mb-1">{{ tweet.name }}</p>
+                        <p class="text-muted mb-0">
+                          {{ tweet.createdAt | date : "medium" }}
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="card-body text-primary">
+                    <p class="card-text">{{ tweet.message }}</p>
+                  </div>
+                </div>
+              </div>
+          </div>
+      </mat-tab>
+      <mat-tab label="People">
+        <div class="card-body">
+          <div *ngIf="filteredUsers && filteredUsers.length === 0">
+            No match found for {{filter.value}}.
+          </div>
+          <div class="col-md" *ngFor="let user of filteredUsers">
+            <div class="card border mb-3" style="margin: 15px">
+              <div class="card-header d-flex align-items-center justify-content-between">
+                <div class="d-flex align-items-center">
+                  <img [src]="user.image" style="width: 45px; height: 45px; margin: 15px" class="rounded-circle" />
+                  <div class="ms-3">
+                    <p class="fw-bold mb-1">{{ user.name }}</p>
+                  </div>
+                </div>
+                <div *ngIf="!isUserFollowed(user.id); else followingBlock">
+                  <button mat-raised-button color="primary" (click)="follow(user.id)">Follow</button>
+                </div>
+                <ng-template #followingBlock>
+                  <button mat-raised-button class="clickable-text" disabled>Following</button>
+                </ng-template>
+              </div>
+            </div>
+          </div>
+        </div>
+      </mat-tab>
+    </mat-tab-group>
+  </div>
+</div>

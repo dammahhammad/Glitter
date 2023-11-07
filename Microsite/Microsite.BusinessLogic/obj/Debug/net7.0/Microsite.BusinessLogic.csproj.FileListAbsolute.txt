@@ -1,0 +1,17 @@
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.BusinessLogic\bin\Debug\net7.0\Microsite.BusinessLogic.deps.json
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.BusinessLogic\bin\Debug\net7.0\Microsite.BusinessLogic.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.BusinessLogic\bin\Debug\net7.0\Microsite.BusinessLogic.pdb
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.BusinessLogic\bin\Debug\net7.0\Microsite.Data.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.BusinessLogic\bin\Debug\net7.0\Microsite.Shared.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.BusinessLogic\bin\Debug\net7.0\Microsite.Data.pdb
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.BusinessLogic\bin\Debug\net7.0\Microsite.Shared.pdb
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.BusinessLogic\obj\Debug\net7.0\Microsite.BusinessLogic.csproj.AssemblyReference.cache
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.BusinessLogic\obj\Debug\net7.0\Microsite.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.BusinessLogic\obj\Debug\net7.0\Microsite.BusinessLogic.AssemblyInfoInputs.cache
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.BusinessLogic\obj\Debug\net7.0\Microsite.BusinessLogic.AssemblyInfo.cs
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.BusinessLogic\obj\Debug\net7.0\Microsite.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.BusinessLogic\obj\Debug\net7.0\Microsite.BusinessLogic.csproj.CopyComplete
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.BusinessLogic\obj\Debug\net7.0\Microsite.BusinessLogic.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.BusinessLogic\obj\Debug\net7.0\refint\Microsite.BusinessLogic.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.BusinessLogic\obj\Debug\net7.0\Microsite.BusinessLogic.pdb
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.BusinessLogic\obj\Debug\net7.0\ref\Microsite.BusinessLogic.dll

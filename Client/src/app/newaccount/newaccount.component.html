@@ -1,0 +1,55 @@
+<section>
+  <body class="align">
+    <div class="grid align__item">
+      <div class="register">
+        <img src="../assets/tweet.png" class="img-fluid" alt="Responsive image" />
+        <form [formGroup]="newaccount" (ngSubmit)="newuser()" class="form" enctype="multipart/form-data">
+          
+          <h2 class="text-center" [ngClass]="accountcreated ? 'text-info pb-1' : 'text-danger pb-1'">{{displayMsg}}</h2>
+
+          <div class="form__field">
+            <input type="text" class="form-control" placeholder="Name" formControlName="name" style="color: white;">
+          </div>
+
+          <div class="form__field">
+            <input type="email" class="form-control" placeholder="Email" formControlName="email" style="color: white;">
+            <div *ngIf="p.email.errors?.['pattern']" class="text-danger">Invalid Email</div>
+          </div>
+
+          <div class="form__field">
+            <input type="file" (change)="handleFileInput($event)" accept="image/*" class="form-control"
+              formControlName="image" id="country">
+          </div>
+
+          <div class="form__field">
+            <input type="text" class="form-control" placeholder="Enter Contact Number" formControlName="contact"
+              style="color: white;">
+            <div *ngIf="p.contact.errors?.['pattern']" class="text-danger">Provide 10 digit phone number</div>
+          </div>
+
+          <div class="form__field">
+            <select class="form-control" formControlName="country" id="country">
+              <option value="" disabled selected>Select Country</option>
+              <option *ngFor="let item of country" value={{item.name}}>{{item.name}}</option>
+            </select>
+          </div>
+
+          <div class="form__field">
+            <input type="password" class="form-control" placeholder="Password" formControlName="password"
+              style="color: white;">
+            <div *ngIf="p.password.errors?.['pattern']" class="text-danger">
+              Password must have a minimum length of 8 and it must have at-least 1 special character, 1 number and 1
+              alphabet
+              each.</div>
+          </div>
+
+          <div class="form__field mt-5">
+            <input type="submit" value="Sign Up" [disabled]="!newaccount.valid">
+          </div>
+
+        </form>
+        <p>Already have an accout? <a href="/login" style="color: white;">Login</a></p>
+      </div>
+    </div>
+  </body>
+</section>

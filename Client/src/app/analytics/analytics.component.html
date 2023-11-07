@@ -1,0 +1,27 @@
+<app-navbar></app-navbar>
+
+<div class="container1" *ngIf="analytics">
+    <div class="footer">
+        <a class="scale-in-hor-center box">
+            <p class="title">Tweets Today</p>
+            <p class="box__image">{{analytics.totalTweetsToday}}</p>
+        </a>
+
+        <a class="scale-in-hor-center box">
+            <p class="title">Most Tweets By</p>
+            <p class="box__image">{{analytics.mostTweetsBy}}</p>
+        </a>
+
+        <a class="scale-in-hor-center box">
+            <p class="title">Most Trending</p>
+            <p class="box__image">{{analytics.mostTrending}}</p>
+        </a>
+
+        <a class="scale-in-hor-center box">
+            <p class="title">Most Liked</p>
+            <p class="box__image">{{analytics.mostLiked}}</p>
+        </a>
+    </div>
+</div>
+
+   

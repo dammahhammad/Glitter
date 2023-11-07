@@ -1,0 +1,15 @@
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.Data\bin\Release\net7.0\Microsite.Data.deps.json
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.Data\bin\Release\net7.0\Microsite.Data.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.Data\bin\Release\net7.0\Microsite.Data.pdb
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.Data\bin\Release\net7.0\Microsite.Shared.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.Data\bin\Release\net7.0\Microsite.Shared.pdb
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.Data\obj\Release\net7.0\Microsite.Data.csproj.AssemblyReference.cache
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.Data\obj\Release\net7.0\Microsite.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.Data\obj\Release\net7.0\Microsite.Data.AssemblyInfoInputs.cache
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.Data\obj\Release\net7.0\Microsite.Data.AssemblyInfo.cs
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.Data\obj\Release\net7.0\Microsite.Data.csproj.CoreCompileInputs.cache
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.Data\obj\Release\net7.0\Microsite.Data.csproj.CopyComplete
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.Data\obj\Release\net7.0\Microsite.Data.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.Data\obj\Release\net7.0\refint\Microsite.Data.dll
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.Data\obj\Release\net7.0\Microsite.Data.pdb
+D:\Nagarro-Data\Data\Glitter-my\Microsite\Microsite.Data\obj\Release\net7.0\ref\Microsite.Data.dll

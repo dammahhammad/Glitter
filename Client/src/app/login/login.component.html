@@ -1,0 +1,25 @@
+<body class="align">
+  <div class="grid align__item">
+    <div class="register">
+      <img src="../assets/tweet.png" class="img-fluid" alt="Responsive image" />
+      <form [formGroup]="loginForm" (ngSubmit)="signin()" class="form">
+        <h3 class="text-center" [ngClass]="isUserValid ? 'text-info pb-1' : 'text-danger pb-1'">
+          {{ displayMsg }}
+        </h3>
+        <div class="form__field">
+          <input type="email" formControlName="email" class="form-control" placeholder="Email Address" style="color: white;">
+        </div>
+
+        <div class="form__field">
+          <input type="password" formControlName="password" class="form-control" placeholder="Password" style="color: white;">
+        </div>
+
+        <div class="form__field mt-5">
+          <input type="submit" value="Login" [disabled]="!loginForm.valid">
+        </div>
+
+      </form>
+      <p>Don't have an accout? <a href="/newaccount" style="color: white;">Register</a></p>
+    </div>
+  </div>
+</body>

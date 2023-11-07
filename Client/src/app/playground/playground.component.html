@@ -1,0 +1,88 @@
+<div *ngIf="!loggedIn">
+  You should be logged in to view this page.....
+  <a routerLink="/login" routerLinkActive="active-link">Login</a> 
+</div>
+<app-navbar></app-navbar>
+<section style="background-color: rgb(250, 248, 248)">
+  <button class="posts" *ngIf="closebutton" (click)="openTweet()">
+    Share your thoughts, ideas, or updates
+  </button>
+  <div *ngIf="openinput">
+    <form class="container" [formGroup]="newPost" (ngSubmit)="savePost()">
+      <div class="mb-3">
+        <textarea
+          class="post"
+          type="text"
+          style="margin-top: 15px"
+          placeholder="Share your thoughts, ideas, or updates"
+          class="form-control"
+          formControlName="Message"
+        ></textarea>
+      </div>
+      <div class="submitbut">
+        <button
+          type="submit"
+          class="btn btn-primary"
+          [disabled]="newPost.invalid"
+        >
+          Post
+        </button>
+        <button
+          (click)="closeTweet()"
+          class="btn btn-primary"
+          style="margin-left: 10px"
+        >
+          Collapse
+        </button>
+      </div>
+    </form>
+  </div>
+  <div fxLayout="column">
+    <div class="col-md" *ngFor="let tweet of allTweets">
+      <div class="card border mb-3" style="margin: 15px">
+        <div class="card-header d-flex align-items-center justify-content-between">
+          <div class="d-flex align-items-center">
+            <img
+              [src]="tweet.image"
+              alt=""
+              style="width: 45px; height: 45px; margin: 15px"
+              class="rounded-circle"
+            />
+            <div class="ms-3">
+              <p class="fw-bold mb-1">{{ tweet.name }}</p>
+              <p class="text-muted mb-0">
+                {{ tweet.createdAt | date : "medium" }}
+              </p>
+            </div>
+          </div>
+          <div>
+            <span class="fa-solid fa-heart text-danger mr-2 clickable-text"
+            style="cursor: pointer; font-size: 20px;"
+            (click)="disliketweet(tweet.id)"
+            *ngIf="tweet.isLiked">
+            </span>
+      
+            <span class="fa-regular fa-heart text-danger mr-2 clickable-text"
+            style="cursor: pointer; font-size: 20px;"
+            (click)="liketweet(tweet.id)"
+            *ngIf="!tweet.isLiked">
+            </span>
+             
+            <span class="fas fa-edit text-primary clickable-text mr-2"
+              *ngIf="this.userInfo.id == tweet.userId"
+              style="cursor: pointer;margin-left: 10px;font-size: 20px;" (click)="openDialog(tweet)"></span>
+            <span class="fas fa-trash text-danger clickable-text"
+              *ngIf="this.userInfo.id == tweet.userId"
+              style="cursor: pointer;margin-left: 10px;font-size: 20px;" (click)="deleteTweet(tweet)"></span>
+          </div>
+          
+        </div>
+        <div class="card-body text-primary">
+          <p class="card-text">{{ tweet.message }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- (click)="searchPosts(tweet.id)" -->

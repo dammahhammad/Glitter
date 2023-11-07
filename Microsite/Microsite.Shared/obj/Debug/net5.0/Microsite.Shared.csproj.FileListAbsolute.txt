@@ -1,0 +1,12 @@
+D:\Glitter-my\Microsite\Microsite.Shared\bin\Debug\net5.0\Microsite.Shared.deps.json
+D:\Glitter-my\Microsite\Microsite.Shared\bin\Debug\net5.0\Microsite.Shared.dll
+D:\Glitter-my\Microsite\Microsite.Shared\bin\Debug\net5.0\ref\Microsite.Shared.dll
+D:\Glitter-my\Microsite\Microsite.Shared\bin\Debug\net5.0\Microsite.Shared.pdb
+D:\Glitter-my\Microsite\Microsite.Shared\obj\Debug\net5.0\Microsite.Shared.csproj.AssemblyReference.cache
+D:\Glitter-my\Microsite\Microsite.Shared\obj\Debug\net5.0\Microsite.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Glitter-my\Microsite\Microsite.Shared\obj\Debug\net5.0\Microsite.Shared.AssemblyInfoInputs.cache
+D:\Glitter-my\Microsite\Microsite.Shared\obj\Debug\net5.0\Microsite.Shared.AssemblyInfo.cs
+D:\Glitter-my\Microsite\Microsite.Shared\obj\Debug\net5.0\Microsite.Shared.csproj.CoreCompileInputs.cache
+D:\Glitter-my\Microsite\Microsite.Shared\obj\Debug\net5.0\Microsite.Shared.dll
+D:\Glitter-my\Microsite\Microsite.Shared\obj\Debug\net5.0\ref\Microsite.Shared.dll
+D:\Glitter-my\Microsite\Microsite.Shared\obj\Debug\net5.0\Microsite.Shared.pdb

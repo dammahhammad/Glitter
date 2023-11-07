@@ -1,0 +1,19 @@
+<app-navbar></app-navbar>
+<h2 style="margin: 15px">Following</h2>
+<div fxLayout="column">
+  <div class="col-md" *ngFor="let follower of allFollowing">
+    <div class="card border mb-3" style="margin: 15px">
+      <div class="card-header d-flex align-items-center justify-content-between">
+        <div class="d-flex align-items-center">
+          <img [src]="follower.image" style="width: 45px; height: 45px; margin: 15px" class="rounded-circle" />
+          <div class="ms-3">
+            <p class="fw-bold mb-1">{{ follower.name }}</p>
+          </div>
+        </div>
+        <div>
+          <button mat-button class="text-danger clickable-text" (click)="Unfollow(follower.id)">Unfollow</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
