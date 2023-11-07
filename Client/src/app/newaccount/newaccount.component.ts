@@ -76,7 +76,7 @@ export class NewaccountComponent implements OnInit {
     const fileData = new FormData();
     fileData.append('image', this.selectedFile, this.selectedFile.name);
     this.http
-      .post('https://glitterapi.azurewebsites.net/api/User/image', fileData, {
+      .post('http://localhost:44347/api/User/image', fileData, {
         responseType: 'text',
       })
       .subscribe((res) => {

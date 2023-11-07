@@ -8,7 +8,7 @@ import { BehaviorSubject, Observable } from 'rxjs';
 })
 export class AuthService implements OnInit {
   jwtHelperService = new JwtHelperService();
-  baseurl = 'https://glitterapi.azurewebsites.net/api/';
+  baseurl = 'http://localhost:44347/api/';
 
   constructor(private http: HttpClient) {}
 
